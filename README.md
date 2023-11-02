@@ -1,4 +1,4 @@
-### Hi there Im <A HREF="https://www.joaquinlarasierra.net">Joaquin Lara Sierra </A>👋
+### Hi there 👋 Im <A HREF="https://www.joaquinlarasierra.net">Joaquin Lara Sierra </A>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/larasierrajoaquin"> <img alt="Static Badge" src="https://img.shields.io/badge/%20Design%20Thinking-Intermedio-brightgreen">
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
