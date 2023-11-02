@@ -13,7 +13,10 @@ Experto en Pedagogía y estrategias Didácticas, Diplomado en Ambientes Virtuale
 	<a href="https://wa.me/573126888333"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/joaquinlarasierra/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/joaquinls"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/edumaticac/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a> </p>
+	<a href="https://www.instagram.com/edumaticac/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://twitter.com/joaquinls"><img src="https://img.shields.io/badge/twitter-%232E2E2E.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a> </p>
+</p>
+ 
 
 
 <!--
