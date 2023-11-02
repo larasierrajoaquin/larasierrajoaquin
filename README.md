@@ -1,11 +1,9 @@
 ### Hi there 👋 Im <A HREF="https://www.joaquinlarasierra.net">Joaquin Lara Sierra </A>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/larasierrajoaquin"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/Strategy-Design%20Thinking-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/Skill-Project%20Management-orange">
-<img alt="Static Badge" src="https://img.shields.io/badge/strength-Pedagogy%20and%20Curriculum%20Design-green">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/larasierrajoaquin"> <img alt="Static Badge" src="https://img.shields.io/badge/Strategy-Design%20Thinking-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Skill-Project%20Management-orange"> <img alt="Static Badge" src="https://img.shields.io/badge/strength-Pedagogy%20and%20Curriculum%20Design-green"> <img alt="Static Badge" src="https://img.shields.io/badge/knowledge-Digital%20Transformation-purple">
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/%20Design%20Thinking-Intermedio-brightgreen">
+
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p align="center">
