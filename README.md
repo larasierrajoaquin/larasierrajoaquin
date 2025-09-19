@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 <p align="justify">
-Certified Associate in Project Management (CAPM)®. Project Management Institute. Scrum Fundamentals Certified. SCRUM Study - Accreditation Body for Scrum and Agile. Magister en Educación con énfasis en Dirección en Instituciones Educativas. Especialista en Gestión de Proyectos, Licenciado en Gestión Educativa, Estudiante Maestría en Gestión de proyectos, tecnólogo en Sistemas de Información. Diplomatura en Gestión y Planificación de Proyectos de I+D, Diplomatura en Transformación Digital. Experciencia en Proyectos E-learning, Experiencia en Design Thinking Educativo. <br>
+Certified Associate in Project Management (CAPM)®. Project Management Institute. Scrum Fundamentals Certified. SCRUM Study - Accreditation Body for Scrum and Agile. Magister en Educación con énfasis en Dirección en Instituciones Educativas. Especialista en Gestión de Proyectos, Licenciado en Gestión Educativa, Magister en Gestión de proyectos, tecnólogo en Sistemas de Información. Diplomatura en Gestión y Planificación de Proyectos de I+D, Diplomatura en Transformación Digital. Experciencia en Proyectos E-learning, Experiencia en Design Thinking Educativo. <br>
 Experto en Pedagogía y estrategias Didácticas, Diplomado en Ambientes Virtuales de Aprendizaje, Experto en Diseño de Contenidos Educativos Digitales, Diplomado en Gestor de Calidad en Instituciones de Formación para el Trabajo y Desarrollo Humano.</p> <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Connect with me
